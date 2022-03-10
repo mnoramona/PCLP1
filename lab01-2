@@ -1,4 +1,9 @@
 #include <stdio.h>
+
+
+// Scrieţi un program pentru afişarea primelor n numere naturale nenule, câte m pe o linie. După fiecare 24 de linii complete afişate, programul va trebui să afişeze un rând liber.
+
+
 int main() {
     int n, m;
     scanf("%d %d", &n, &m);
